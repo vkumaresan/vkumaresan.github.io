@@ -53,7 +53,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/750703.jpg"
 # footer-img: "/img/bgimage.png"
-page-img: "/img/750703.jpg"
+# page-img: "/img/750703.jpg"
 
 # --- Footer options --- #
 
@@ -68,12 +68,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "viggykumaresan@gmail.com"
+  # facebook: deanattali
+  github: vkumaresan
+  twitter: viggykumaresan
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: viggy-kumaresan
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -253,7 +253,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cach
 
-remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+#remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
