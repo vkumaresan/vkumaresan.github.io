@@ -253,7 +253,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cach
 
-#remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
