@@ -1,16 +1,25 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
+Master in Interdisciplinary Data Science student, Duke University
 
-My name is Inigo Montoya. I have the following qualities:
+Data Scientist/Entrepeneur-in-progress
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Passionate about using data to observe and improve human behavior.
 
-What else do you need?
+Avid sports fan, hip-hop aficionado, and enthusiast of all things food-related.
 
-### my history
+All opinions are my own.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
+[LinkedIn](https://www.linkedin.com/in/viggy-kumaresan/)
+
+[Github](https://github.com/vkumaresan)
+
+Twitter: @viggykumaresan
+
+Email: viggykumaresan@gmail.com
+
+
