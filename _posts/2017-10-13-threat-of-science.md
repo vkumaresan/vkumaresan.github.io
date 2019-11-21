@@ -7,7 +7,9 @@ The scientific community has had a long and strenuous relationship with the gene
 
 Since ancient times, humans have questioned the nature of our world. Thales of Miletus is considered the father of modern science, for he was the first Greek philosopher to explain the world in physical terms, rather than in supernatural causes ( [http://www.crystalinks.com/greekscience.html](http://www.crystalinks.com/greekscience.html)). While art was critical in representing modern life, the Greeks were also interested in learning more about their world and about themselves, which led to a focus on philosophy and science. Back then, there was not a clear distinction between science and other fields, which led to controversy over the development of their ideas. Some argue that this combination led to a misrepresentation of science, but most agree that this lack of distinction actually led to a new problem-solving mindset, one which found creative solutions through interdisciplinary thought ( [http://www.ancient.eu/Greek_Science/](http://www.ancient.eu/Greek_Science/)).
 
-![Thales of Miletus ([https://www.famousscientists.org/thales/](https://www.famousscientists.org/thales/))](https://cdn-images-1.medium.com/max/2000/1*eMPD8EeplfKc7tVgE66sCg.jpeg)*Thales of Miletus ([https://www.famousscientists.org/thales/](https://www.famousscientists.org/thales/))*
+![Thales of Miletus ([https://www.famousscientists.org/thales/](https://www.famousscientists.org/thales/))](https://cdn-images-1.medium.com/max/2000/1*eMPD8EeplfKc7tVgE66sCg.jpeg)
+
+*Thales of Miletus ([https://www.famousscientists.org/thales/](https://www.famousscientists.org/thales/))*
 
 This study led to an incredible amount of research and findings, most of which built the foundation for modern day medicine, botany, and other scientific disciplines. But these inventions came about because philosophers found that science served as a bridge between them and the public, for their inventions and findings would allow Greece to flourish. Science touched every part of their civilization, from military to transportation, and thus the public knew the importance of the scientific process.
 
