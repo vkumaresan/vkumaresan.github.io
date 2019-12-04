@@ -13,8 +13,7 @@ Avid sports fan, hip-hop aficionado, and enthusiast of all things food-related.
 
 All opinions are my own.
 
-*Contact*
-
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/viggy-kumaresan/)
 
