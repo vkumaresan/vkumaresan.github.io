@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+subtitle: Click on the links for more info!
 ---
 
 # Academic
