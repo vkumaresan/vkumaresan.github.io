@@ -1,6 +1,8 @@
 Since I didn’t have much time to write any blog posts this past year, I thought that I would recap all of the various projects that I worked on, as well as highlight some key takeaways that I learned. This year was challenging and intensive, but it was exactly what I was looking for from a graduate school experience.
 
-![Duke Chapel. Photo: [https://duke.edu/contact/](https://duke.edu/contact/)]
+![Duke Chapel. Photo: [https://duke.edu/contact/](https://duke.edu/contact/)](https://cdn-images-1.medium.com/max/2000/1*CIpQBBAlLB4ZLmC6aPGi5A.jpeg)
+
+*Duke Chapel. Photo: [https://duke.edu/contact/](https://duke.edu/contact/)*
 
 
 **Fall Semester**
@@ -35,9 +37,7 @@ This course served as an overview of machine learning methods that are currently
 
 We had two projects in this class: the first was focused on image classification of solar arrays on house rooftops using aerial imagery data. Our team tried various approaches including logistic regression, K-Means clustering, and neural networks. Ultimately, the neural network approach worked best on the test dataset, so we tuned our hyperparameters until we achived a performance (AUC) of 0.99161. This project taught us a lot about neural network construction and the various ways of improving model performance.
 
-Our final project was a team project where we could decide on any topic of our choosing. We ultimately landed on analyzing how access to various transportation methods affects urban housing price, specifically in New York City. We obtained publicly available housing data, as well as data about Uber trips, taxi trips, subway stop locations and bike share locations. After cleaning and processing the data, we tried various regression techniques to see which one ultimately achieved the highest performance, including linear regression, K-Means clustering, CART, Random Forest regression, and a neural network. Ultimately, the Random Forest model performed the best, although we probably could have achieved higher performance with a neural network if we had more time to further process the data. But, the Random Forest model was also able to give us feature importance scores, which is useful for interpretation. We wrote a report on our findings (which can be found on my Github repo above), as well as created a video that summarized our findings, which can be found here:
-
-<iframe src="https://medium.com/media/686d25e9dd8714491a2a2c6b474239a7" frameborder=0></iframe>
+Our final project was a team project where we could decide on any topic of our choosing. We ultimately landed on analyzing how access to various transportation methods affects urban housing price, specifically in New York City. We obtained publicly available housing data, as well as data about Uber trips, taxi trips, subway stop locations and bike share locations. After cleaning and processing the data, we tried various regression techniques to see which one ultimately achieved the highest performance, including linear regression, K-Means clustering, CART, Random Forest regression, and a neural network. Ultimately, the Random Forest model performed the best, although we probably could have achieved higher performance with a neural network if we had more time to further process the data. But, the Random Forest model was also able to give us feature importance scores, which is useful for interpretation. We wrote a report on our findings (which can be found on my Github repo above), as well as created a video that summarized our findings, which can be found [here](https://youtu.be/Fbon8qOrJeA):
 
 This project was challenging, especially because we only had two weeks and had to deal with a lot of different types of data, but I am proud of what we were ultimately able to achieve and learn.
 
