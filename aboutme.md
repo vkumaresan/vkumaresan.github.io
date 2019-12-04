@@ -5,7 +5,7 @@ title: About me
 
 Master in Interdisciplinary Data Science student, Duke University
 
-Data Scientist/Entrepeneur-in-progress
+Data Scientist/Entrepeneur-in-Progress
 
 Passionate about using data to observe and improve human behavior.
 
