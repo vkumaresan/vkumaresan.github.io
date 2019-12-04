@@ -12,7 +12,7 @@ title: Projects
 
 [The Effect of Transportation Accessibility on Housing Prices in New York City](https://github.com/vkumaresan/ECE590/blob/master/Final_Project_Report.pdf)
 
-[An Examination of COMPAS and Bias in Criminal Risk-Assessment]()
+[An Examination of COMPAS and Bias in Criminal Risk-Assessment](https://vkumaresan.github.io/ethics_white_paper.pdf)
 
 [Rotational CoordConv](https://github.com/vkumaresan/Rotational-CoordConv)
 
