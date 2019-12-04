@@ -158,7 +158,7 @@ date_format: "%B %-d, %Y"
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
 markdown: kramdown
-remote_theme: landing-page
+remote_theme: swcool/landing-page-theme
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
