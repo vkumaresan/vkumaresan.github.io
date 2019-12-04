@@ -1,9 +1,7 @@
-
-# Master’s Year 1 Recap
-
 Since I didn’t have much time to write any blog posts this past year, I thought that I would recap all of the various projects that I worked on, as well as highlight some key takeaways that I learned. This year was challenging and intensive, but it was exactly what I was looking for from a graduate school experience.
 
-![Duke Chapel. Photo: [https://duke.edu/contact/](https://duke.edu/contact/)](https://cdn-images-1.medium.com/max/2000/1*CIpQBBAlLB4ZLmC6aPGi5A.jpeg)*Duke Chapel. Photo: [https://duke.edu/contact/](https://duke.edu/contact/)*
+![Duke Chapel. Photo: [https://duke.edu/contact/](https://duke.edu/contact/)]
+
 
 **Fall Semester**
 
