@@ -13,6 +13,9 @@ Avid sports fan, hip-hop aficionado, and enthusiast of all things food-related.
 All opinions are my own.
 
 
+Blog posts can also be found on my Medium site: https://medium.com/data-in-all-things
+
+
 
 [LinkedIn](https://www.linkedin.com/in/viggy-kumaresan/)
 
