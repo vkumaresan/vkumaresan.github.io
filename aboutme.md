@@ -20,7 +20,7 @@ All opinions are my own.
 
 [Github](https://github.com/vkumaresan)
 
-[Twitter](https://twitter.com/viggykumaresan) :@viggykumaresan
+[Twitter](https://twitter.com/viggykumaresan): @viggykumaresan
 
 Email: viggykumaresan@gmail.com
 
