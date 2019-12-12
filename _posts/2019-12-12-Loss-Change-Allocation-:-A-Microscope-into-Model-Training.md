@@ -7,15 +7,21 @@ Typically, we only have one metric that we use to assess model training: loss. T
 
 The first step was to calculate the integral along the loss landscape-
 
-![The change in loss from θ0 to θT may be calculated by integrating the dot product of the loss gradient and parameter motion along a path from θ0 to θT.](https://cdn-images-1.medium.com/max/2000/1*R1ABzKpybRPJe7CteDB2tg.png)*The change in loss from θ0 to θT may be calculated by integrating the dot product of the loss gradient and parameter motion along a path from θ0 to θT.*
+![The change in loss from θ0 to θT may be calculated by integrating the dot product of the loss gradient and parameter motion along a path from θ0 to θT.](https://cdn-images-1.medium.com/max/2000/1*R1ABzKpybRPJe7CteDB2tg.png)
+
+*The change in loss from θ0 to θT may be calculated by integrating the dot product of the loss gradient and parameter motion along a path from θ0 to θT.*
 
 This then allows us to approximate the path integral using a series of first-order Taylor approximations-
 
-![∇θL(θt) represents the gradient of the loss of the whole training set w.r.t. θ evaluated at θt, v(i)represents the i-th element of a vector v, and the parameter vector θ contains K elements.](https://cdn-images-1.medium.com/max/2332/1*JgshQMyigg_TLOKYVEkOpw.png)*∇θL(θt) represents the gradient of the loss of the whole training set w.r.t. θ evaluated at θt, v(i)represents the i-th element of a vector v, and the parameter vector θ contains K elements.*
+![∇θL(θt) represents the gradient of the loss of the whole training set w.r.t. θ evaluated at θt, v(i)represents the i-th element of a vector v, and the parameter vector θ contains K elements.](https://cdn-images-1.medium.com/max/2332/1*JgshQMyigg_TLOKYVEkOpw.png)
+
+*∇θL(θt) represents the gradient of the loss of the whole training set w.r.t. θ evaluated at θt, v(i)represents the i-th element of a vector v, and the parameter vector θ contains K elements.*
 
 This series is what defines LCA, since it allows us to index training steps and attribute changes in loss to each parameter.
 
-![In this figure, the researchers showcase an example on a 2D loss surface (a). One parameter (θ dim-1) moves but does not affect the loss (b), while the other parameter (θ dim-2) moves in the negative gradient direction. By multiplying the parameter by its individual gradient movement, LCA can then be calculated.](https://cdn-images-1.medium.com/max/3524/1*yH5L2qVOphAH9SVqnVGe6w.png)*In this figure, the researchers showcase an example on a 2D loss surface (a). One parameter (θ dim-1) moves but does not affect the loss (b), while the other parameter (θ dim-2) moves in the negative gradient direction. By multiplying the parameter by its individual gradient movement, LCA can then be calculated.*
+![In this figure, the researchers showcase an example on a 2D loss surface (a). One parameter (θ dim-1) moves but does not affect the loss (b), while the other parameter (θ dim-2) moves in the negative gradient direction. By multiplying the parameter by its individual gradient movement, LCA can then be calculated.](https://cdn-images-1.medium.com/max/3524/1*yH5L2qVOphAH9SVqnVGe6w.png)
+
+*In this figure, the researchers showcase an example on a 2D loss surface (a). One parameter (θ dim-1) moves but does not affect the loss (b), while the other parameter (θ dim-2) moves in the negative gradient direction. By multiplying the parameter by its individual gradient movement, LCA can then be calculated.*
 
 As shown by this figure, a parameter that has a nonzero gradient and moves in the negative gradient direction has negative LCA, which indicates that it is **helping **(since it is causing loss to decrease). Conversely, a parameter that has a nonzero gradient and moves in the positive gradient direction is **hurting** (since it is causing loss to increase).
 
@@ -66,3 +72,5 @@ Ultimately, this was a really interesting and rewarding project to build. Unders
 Thanks to Uber Research for this awesome paper, and thank you for reading!
 
 All code and slides are available on my [Github repository](https://github.com/vkumaresan/LCA).
+
+Medium post: https://medium.com/data-in-all-things/loss-change-allocation-a-microscope-into-model-training-da0f142a047d 
