@@ -73,4 +73,4 @@ Thanks to Uber Research for this awesome paper, and thank you for reading!
 
 All code and slides are available on my [Github repository](https://github.com/vkumaresan/LCA).
 
-[Medium post](https://medium.com/data-in-all-things/loss-change-allocation-a-microscope-into-model-training-da0f142a047d)
+[Medium post available here.](https://medium.com/data-in-all-things/loss-change-allocation-a-microscope-into-model-training-da0f142a047d) 
