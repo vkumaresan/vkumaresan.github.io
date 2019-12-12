@@ -37,7 +37,7 @@ With these insights in mind, we decided to adapt the LCA code and see if we coul
 
 We created our workflow based on a simple FC 3 layer network trained on MNIST. After looking at the [Uber Research code](https://github.com/uber-research/loss-change-allocation), we realized that their workflow involved intermediate steps (training the model and downloading the weights, using the downloaded weights and calculating the gradients, using the calculated gradients and weights to calculate LCA), but this seemed cumbersome since it involved multiple programs and file downloads. We created our workflow to calculate LCA during model training and save to lists in-memory, allowing for immediate visualization. This is our code for calculating LCA and integrating it into our MNIST model:
 
-<iframe src="https://medium.com/media/ca6a36db76da452255a84b455bb3ed91" frameborder=0></iframe>
+<script src="https://gist.github.com/vkumaresan/0e7e04817c864c92bab36ab086f2557c.js"></script>
 
 Note that this is in Tensorflow 1.x; one of our to-do’s is to port this over to TensorFlow 2, as I’ll mention at the end of the post. But with this workflow, we are able to calculate LCA easily during model training, saving the LCA as a list for each layer.
 
