@@ -19,7 +19,7 @@ This then allows us to approximate the path integral using a series of first-ord
 
 This series is what defines LCA, since it allows us to index training steps and attribute changes in loss to each parameter.
 
-![In this figure, the researchers showcase an example on a 2D loss surface (a). One parameter (θ dim-1) moves but does not affect the loss (b), while the other parameter (θ dim-2) moves in the negative gradient direction. By multiplying the parameter by its individual gradient movement, LCA can then be calculated.](https://cdn-images-1.medium.com/max/3524/1*yH5L2qVOphAH9SVqnVGe6w.png)
+![In this figure, the researchers showcase an example on a 2D loss surface (a). One parameter (θ dim-1) moves but does not affect the loss (b), while the other parameter (θ dim-2) moves in the negative gradient direction (c). By multiplying the parameter by its individual gradient movement, LCA can then be calculated.](https://cdn-images-1.medium.com/max/3524/1*yH5L2qVOphAH9SVqnVGe6w.png)
 
 *In this figure, the researchers showcase an example on a 2D loss surface (a). One parameter (θ dim-1) moves but does not affect the loss (b), while the other parameter (θ dim-2) moves in the negative gradient direction. By multiplying the parameter by its individual gradient movement, LCA can then be calculated.*
 
