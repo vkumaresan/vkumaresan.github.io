@@ -55,7 +55,7 @@ We also decided to test our LCA methodology on the APTOS 2019 Blindness Detectio
 
 ![](https://cdn-images-1.medium.com/max/2000/1*ysPWJk8aAPvmnYJ61oGDnA.png)
 
-The graph on the top shows our training loss for the classification task, while the graph on the bottom shows the per-neuron cumulative LCA at each iteration, where red indicates negative LCA and green indicates positive LCA. The green, cyan, and magenta bars highlight three different moments in model training.
+The graph above shows our training loss for the classification task, while the graph below shows the per-neuron cumulative LCA at each iteration, where red indicates negative LCA and green indicates positive LCA. The green, cyan, and magenta bars highlight three different moments in model training.
 
 ![](https://cdn-images-1.medium.com/max/2338/1*IM-_kv8dEIZWd5HtqhOopw.png)
 
