@@ -1,9 +1,9 @@
 ---
-youtubeId: Fbon8qOrJeA
+youtubeId: Zni4ukezfvc
 layout: page
 title: Video Gallery
 ---
 
-# The Effect of Transportation Accessibility on Housing Prices in NYC
+## Distributed Image Processing with GCP DataProc
 
 {% include youtubePlayer.html id=page.youtubeId %}
