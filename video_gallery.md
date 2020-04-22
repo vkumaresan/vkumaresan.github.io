@@ -2,10 +2,7 @@
 layout: page
 title: Video Gallery
 ---
----
-youtubeId: Fbon8qOrJeA
----
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=Fbon8qOrJeA %}
 
 
