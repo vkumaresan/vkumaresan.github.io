@@ -3,6 +3,6 @@ layout: page
 title: Video Gallery
 ---
 
-{% include youtubePlayer.html id=Fbon8qOrJeA %}
+{% include youtubePlayer.html id=page.Fbon8qOrJeA %}
 
 
