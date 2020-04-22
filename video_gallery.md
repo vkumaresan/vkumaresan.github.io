@@ -1,7 +1,5 @@
 ---
 youtubeId: Fbon8qOrJeA
----
----
 layout: page
 title: Video Gallery
 ---
