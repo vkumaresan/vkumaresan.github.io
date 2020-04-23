@@ -3,10 +3,5 @@ youtubeId: lDi9uFcD7XI
 ---
 # Video Gallery
 
-<!---
-Include this next line in your .md for Youtube videos, make sure to put your video ID up there!
-
-Example:     youtubeId: lDi9uFcD7XI
--->
-
-{% include youtubePlayer.html id=page.youtubeId %}
+## Distributed Image Processing with GCP DataProc
+[![Distributed Image Processing with GCP DataProc](https://img.youtube.com/vi/Zni4ukezfvc/0.jpg)](https://www.youtube.com/watch?v=Zni4ukezfvc)
