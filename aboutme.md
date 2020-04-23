@@ -7,7 +7,7 @@ Master in Interdisciplinary Data Science student, Duke University
 
 Data Scientist/Entrepeneur-in-Progress
 
-Passionate about using data to observe and improve human behavior.
+Passionate about using data to observe and build products that improve human behavior.
 
 Avid sports fan, hip-hop aficionado, and enthusiast of all things food-related.
 
