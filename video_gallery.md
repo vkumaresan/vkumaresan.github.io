@@ -1,11 +1,12 @@
 ---
 
 youtubeId1: Fbon8qOrJeA
-youtubeId2: cGvNlubsL4E
-youtubeId3: fpsaFRC9qjA
-youtubeId4: Zni4ukezfvc
-youtubeId5: t4_tgmILZr0
-youtubeId6: c-xhIPsGcxw
+youtubeId2: c-xhIPsGcxw
+youtubeId3: cGvNlubsL4E
+youtubeId4: fpsaFRC9qjA
+youtubeId5: Zni4ukezfvc
+youtubeId6: t4_tgmILZr0
+
 
 layout: page
 title: Video Gallery
@@ -15,16 +16,16 @@ title: Video Gallery
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
 ## Box Office Revenue Prediction: Flask Application on GCP App Engine
-{% include youtubePlayer.html id=page.youtubeId6 %}
-
-## Text Adventure with Docker
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
+## Text Adventure with Docker
+{% include youtubePlayer.html id=page.youtubeId4 %}
+
 ## Text Analytics on Microsoft Azure
-{% include youtubePlayer.html id=page.youtubeId3 %}
+{% include youtubePlayer.html id=page.youtubeId5 %}
 
 ## Distributed Image Processing with GCP DataProc
-{% include youtubePlayer.html id=page.youtubeId4 %}
+{% include youtubePlayer.html id=page.youtubeId6 %}
 
 ## Serverless Application Pipeline in AWS
 {% include youtubePlayer.html id=page.youtubeId5 %}
