@@ -19,16 +19,16 @@ title: Video Gallery
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
 ## Text Adventure with Docker
-{% include youtubePlayer.html id=page.youtubeId4 %}
+{% include youtubePlayer.html id=page.youtubeId3 %}
 
 ## Text Analytics on Microsoft Azure
-{% include youtubePlayer.html id=page.youtubeId5 %}
+{% include youtubePlayer.html id=page.youtubeId4 %}
 
 ## Distributed Image Processing with GCP DataProc
-{% include youtubePlayer.html id=page.youtubeId6 %}
+{% include youtubePlayer.html id=page.youtubeId5 %}
 
 ## Serverless Application Pipeline in AWS
-{% include youtubePlayer.html id=page.youtubeId5 %}
+{% include youtubePlayer.html id=page.youtubeId6 %}
 
 
 
