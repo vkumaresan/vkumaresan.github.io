@@ -5,12 +5,17 @@ youtubeId2: cGvNlubsL4E
 youtubeId3: fpsaFRC9qjA
 youtubeId4: Zni4ukezfvc
 youtubeId5: t4_tgmILZr0
+youtubeId6: c-xhIPsGcxw
+
 layout: page
 title: Video Gallery
 ---
 
 ## The Effect of Transportation Accessibility on Housing Prices in New York City
 {% include youtubePlayer.html id=page.youtubeId1 %}
+
+## Box Office Revenue Prediction: Flask Application on GCP App Engine
+{% include youtubePlayer.html id=page.youtubeId6 %}
 
 ## Text Adventure with Docker
 {% include youtubePlayer.html id=page.youtubeId2 %}
@@ -23,5 +28,6 @@ title: Video Gallery
 
 ## Serverless Application Pipeline in AWS
 {% include youtubePlayer.html id=page.youtubeId5 %}
+
 
 
