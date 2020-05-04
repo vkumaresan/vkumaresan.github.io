@@ -5,7 +5,7 @@ subtitle: Click on the links for more info!
 ---
 
 # Academic
-[Text analysis of depression-related content across social media platforms](https://github.com/vkumaresan/Text-Analysis-Final-Project/blob/master/Text%20Analysis%20Final_%20Expression%20of%20Depression.pdf)
+[Text Analysis of Depression-Related Content Across Social Media Platforms](https://github.com/vkumaresan/Text-Analysis-Final-Project/blob/master/Text%20Analysis%20Final_%20Expression%20of%20Depression.pdf)
 
 [Nursing Home Quality Analysis (CMS Data)](https://github.com/vkumaresan/Nursing-Home-Analysis)
 
