@@ -9,15 +9,19 @@ subtitle: Click on the links for more info!
 
 [Nursing Home Quality Analysis (CMS Data)](https://github.com/vkumaresan/Nursing-Home-Analysis)
 
-[Duke DataFest 2019 - Winner of Best Use of Outside Data](https://github.com/vkumaresan/Duke_Datafest_2019/blob/master/Least%20Squares%20-%20Presentation.pdf)
+[Predicting Women's Sevens Rugby Player Fatigue from Survey Data (Winner of Best Use of Outside Data, Duke DataFest 2019)](https://github.com/vkumaresan/Duke_Datafest_2019/blob/master/Least%20Squares%20-%20Presentation.pdf)
 
 [The Effect of Transportation Accessibility on Housing Prices in New York City](https://github.com/vkumaresan/ECE590/blob/master/Final_Project_Report.pdf)
 
 [An Examination of COMPAS and Bias in Criminal Risk-Assessment](https://vkumaresan.github.io/ethics_white_paper.pdf)
 
+[Algorithmic Fairness Tools Review for Moore Foundation, on behalf of Duke Forge](https://github.com/dukeforge/algorithmic-fairness)
+
 [Rotational CoordConv](https://github.com/vkumaresan/Rotational-CoordConv)
 
 [Loss Change Allocation](https://github.com/vkumaresan/LCA)
+
+[Box Office Revenue Prediction Tool](https://github.com/vkumaresan/Box-Office-Revenue-Prediction-Tool)
 
 # Personal
 Cambridge Open Data: Parking Ticket Analysis
