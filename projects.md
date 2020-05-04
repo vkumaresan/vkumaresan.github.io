@@ -23,6 +23,8 @@ subtitle: Click on the links for more info!
 
 [Box Office Revenue Prediction Tool](https://github.com/vkumaresan/Box-Office-Revenue-Prediction-Tool)
 
+[Predictive Maintenance of F-15s (Duke Mission Driven Startups and Data+)](https://www.limitlessdata.io/)
+
 # Personal
 Cambridge Open Data: Parking Ticket Analysis
 
