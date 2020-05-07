@@ -32,7 +32,7 @@ Cambridge Open Data: Parking Ticket Analysis
   
   * [Part 2](https://vkumaresan.github.io/2017-11-17-Cambridge-Open-Data-Parking-Part-2/)
   
-[311 in Your Neighborhood (Analyze Boston Showcase Project)](https://public.tableau.com/profile/viggy.kumaresan#!/vizhome/311inYourNeighborhood/NeighborhodView)
+[311 in Your Neighborhood (Analyze Boston Showcase Project)](https://public.tableau.com/profile/viggy.kumaresan#!/vizhome/311inYourNeighborhood/NeighborhoodView)
 
 [Durham Weather Analysis](https://vkumaresan.github.io/2018-09-19-Durham-Weather-Analysis/)
 
