@@ -3,9 +3,11 @@ layout: page
 title: About me
 ---
 
-Master in Interdisciplinary Data Science student, Duke University
+Data Scientist @ Aetna (a CVS Health company)
 
-Data Scientist/Entrepeneur-in-Progress
+Entrepeneur-in-Progress
+
+Master in Interdisciplinary Data Science, Duke University
 
 Passionate about using data to observe and build products that improve human behavior.
 
