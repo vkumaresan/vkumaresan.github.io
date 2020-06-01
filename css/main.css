@@ -68,12 +68,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #B1A296;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #B1A296;
 }
 img::selection {
   color: white;
@@ -318,7 +318,7 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: #B1A296;
   font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;
@@ -504,8 +504,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  background: #B1A296;
+  border: 1px solid #557A95;
 }
 
 .pager {
