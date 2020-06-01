@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-#title: Viggy Kumaresan
+title: 
 
 # Short description of your site
 description: Improving behavior in healthcare through data
@@ -31,7 +31,7 @@ avatar: "/img/IMG_-p4tz8r-01.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: 
+# title-img: 
 
 # --- Background colour/image options --- #
 
