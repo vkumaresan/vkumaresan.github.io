@@ -5,7 +5,7 @@ title: About me
 
 Data Scientist @ Aetna (a CVS Health company)
 
-Entrepeneur-in-Progress
+Entrepreneur-in-Progress
 
 Master in Interdisciplinary Data Science, Duke University
 
