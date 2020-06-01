@@ -68,12 +68,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #B1A296;
+  background: #557A95;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #B1A296;
+  background: #557A95;
 }
 img::selection {
   color: white;
@@ -298,7 +298,7 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #B1A296;
+  color: #557A95;
 }
 
 .post-preview a:focus,
@@ -318,7 +318,7 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #B1A296;
+  color: #557A95;
   font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;
