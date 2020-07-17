@@ -190,8 +190,6 @@ exclude:
   - CHANGELOG.md
   - CNAME
   - Dockerfile
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
   - Vagrantfile
@@ -251,6 +249,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
+  - jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
