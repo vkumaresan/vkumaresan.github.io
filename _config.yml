@@ -203,7 +203,7 @@ prose:
     - LICENSE
     - feed.xml
     - _config.yml
-#     - /_layouts
+    - /_layouts
     - /_includes
     - /css
     - /img
