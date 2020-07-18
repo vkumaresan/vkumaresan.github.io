@@ -1,5 +1,9 @@
 ---
+layout: post
+title: 'Master's Year 1 Recap'
+subtitle: A lot done, a lot learned.
 tags: [Data Science]
+comments: true
 ---
 Since I didn’t have much time to write any blog posts this past year, I thought that I would recap all of the various projects that I worked on, as well as highlight some key takeaways that I learned. This year was challenging and intensive, but it was exactly what I was looking for from a graduate school experience.
 
