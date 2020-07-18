@@ -1,5 +1,9 @@
 ---
+layout: post
+title: 'Setting up a Continuous Integration Pipeline'
+subtitle: I promise it's not as boring as it sounds.
 tags: [Data Science]
+comments: true
 ---
 
 I’m currently enrolled in a Cloud Computing course, and as we are starting to learn about the fundamentals of setting up a cloud environment, the first step is setting up a continuous integration pipeline. NOTE: I’ll be using screenshots and material from our course website, which can be found here.
