@@ -14,8 +14,9 @@ Since ancient times, humans have questioned the nature of our world. Thales of M
 
 {:refdef: style="text-align: center;"}
 ![Thales of Miletus ([https://www.famousscientists.org/thales/](https://www.famousscientists.org/thales/))](https://cdn-images-1.medium.com/max/2000/1*eMPD8EeplfKc7tVgE66sCg.jpeg)
+{: refdef}
 
-
+{:refdef: style="text-align: center;"}
 *Thales of Miletus ([https://www.famousscientists.org/thales/](https://www.famousscientists.org/thales/))*
 {: refdef}
 
