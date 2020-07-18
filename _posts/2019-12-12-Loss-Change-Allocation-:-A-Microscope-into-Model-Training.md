@@ -2,8 +2,6 @@
 tags: [Data Science]
 ---
 
-# Loss Change Allocation: A Microscope into Model Training
-
 As I finish up the fall semester, I thought I’d write a post about one of the interesting projects that I worked on in my Medical Machine Learning class. We were tasked with selecting a recent ML paper to replicate/expand upon, and my team decided on the recent paper by Uber Research, [LCA: Loss Change Allocation for Neural Network Training](https://arxiv.org/pdf/1909.01440.pdf). In this paper, the researchers proposed a method for gaining deeper insight into the model training process through the scope of gradient changes, and were able to derive some high-level conclusions from the tasks that they tested. I’ll start off by explaining their methodology, and then go into how we adapted their process for our own tasks.
 
 Typically, we only have one metric that we use to assess model training: loss. This scalar value gives us an overall idea about how well the model is able to ‘learn’ the underlying structure in our data, but is limited in its depth. **The idea behind Loss Change Allocation (LCA) is to dig deeper; specifically, to calculate a per-parameter, per-iteration decomposition of changes to overall loss. **The researchers were able to derive this metric using some convenient calculus.
