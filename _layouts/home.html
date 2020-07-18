@@ -2,7 +2,9 @@
 layout: page
 ---
 
+{% include sidebar-right.html %}
 
+<h1>Blog<h1>
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
