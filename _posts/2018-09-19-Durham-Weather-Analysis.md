@@ -1,8 +1,10 @@
 ---
+layout: post
+title: 'Durham Weather Analysis'
+subtitle: Just staring at the clouds through my keyboard.
 tags: [Analysis]
+comments: true
 ---
-
-# Durham Weather Analysis
 
 I recently moved to Durham, NC to start my graduate studies at Duke University. My family has been in Raleigh for the past 10 years, and I actually went to high school in Durham, so it’s nice to be back in the area.
 
