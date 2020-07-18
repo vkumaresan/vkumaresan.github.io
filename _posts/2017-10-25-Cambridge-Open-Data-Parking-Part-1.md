@@ -1,12 +1,12 @@
 ---
+layout: post
+title: 'Cambridge Open Data: Parking Tickets'
+subtitle: Why and where are people getting tickets?
 tags: [Analysis]
+comments: true
 ---
 
-# Cambridge Open Data: Parking Tickets
-
-
-
-The City of Cambridge has an open data portal, as well as a [Civic Innovation Challenge Inventory](https://data.cambridgema.gov/General-Government/Civic-Innovation-Challenge-Inventory/x96z-hdnh/data) that contains problem statements related to the open datasets. This article will be the first of a series of posts that I plan to make where I tackle and explore these challenges.
+The City of Cambridge has an open data portal, as well as a [Civic Innovation Challenge Inventory](https://data.cambridgema.gov/General-Government/Civic-Innovation-Challenge-Inventory/x96z-hdnh/data) that contains problem statements related to the open datasets. 
 
 I decided to start with the ‘Cambridge Parking Tickets’ dataset, which has this problem statement:
 
