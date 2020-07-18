@@ -1,3 +1,6 @@
+---
+tags: [Analysis]
+---
 
 # Durham Weather Analysis
 
