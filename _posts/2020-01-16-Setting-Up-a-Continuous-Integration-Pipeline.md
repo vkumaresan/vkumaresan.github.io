@@ -1,3 +1,6 @@
+---
+tags: [Data Science]
+---
 
 # Setting up a Continuous Integration Pipeline
 
