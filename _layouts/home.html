@@ -1,14 +1,15 @@
 ---
 layout: page
 ---
+<h1 style="text-align:center">Blog</h1>
 
 {% include sidebar-right.html %}
 
-<h1 style="text-align:center">Blog</h1>
+
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
-<h2>Posts</h2>
+<h2 style="text-align:center">Posts</h2>
 <div class="posts-list">
   {% for post in posts %}
   <article class="post-preview">
