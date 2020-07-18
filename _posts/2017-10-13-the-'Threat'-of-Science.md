@@ -2,7 +2,7 @@
 tags: [Commentary]
 ---
 
-# The ‘Threat’ of Science
+# The 'Threat' of Science
 
 When the eclipse came and went on August 21st, 2017, social media blew up about the unity of the human race, pausing to view this spectacular event as one. In a time of division and discord, many praised this event as a sign that we should be moving towards peace. But interestingly, others brought up the irony that those same eclipse-viewers were sometimes also in denial of climate change, vaccines, and other scientifically-proven phenomenon.
 
