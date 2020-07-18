@@ -1,8 +1,10 @@
 ---
+layout: post
+title: 'Net Neutrality and the Future of Data Legislation'
+subtitle: Who watches the data?
 tags: [Commentary]
+comments: true
 ---
-
-# Net Neutrality and the Future of Data Legislation
 
 The term ‘Net Neutrality’ has been all over the news recently, especially with the recent ruling by the FCC to get rid of the Obama-era regulations ( Link). While the ruling has led to immediate resistance in the legal and political arenas, and the true effects of this ruling might not be felt by consumers for weeks, this is still a disturbing decision in the history of information legislation.
 
