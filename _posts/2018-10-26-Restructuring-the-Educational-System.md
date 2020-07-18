@@ -1,3 +1,6 @@
+---
+tags: [Commentary]
+---
 
 # Restructuring the Educational System
 
