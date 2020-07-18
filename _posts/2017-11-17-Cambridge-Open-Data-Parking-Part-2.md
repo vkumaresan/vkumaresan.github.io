@@ -1,8 +1,10 @@
 ---
+layout: post
+title: 'Cambridge Open Data: Parking Tickets Part 2'
+subtitle: A tale of five squares.
 tags: [Analysis]
+comments: true
 ---
-
-# Cambridge Open Data: Parking Tickets Part 2
 
 This article is the continuation of my Open Data series (You can read the first part here).
 
