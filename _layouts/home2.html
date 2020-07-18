@@ -14,7 +14,7 @@ layout: page
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
           <h2 style="margin-bottom: 10px">
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <a class="post-link" href="{{ post.url | absolute_url }}">{{ post.title }}</a>
           </h2>
           {% if post.description %}
             {% assign desc = post.description %}
@@ -22,7 +22,7 @@ layout: page
             {% assign desc = post.excerpt | remove: '<p>' | remove: '</p>' %}
           {% endif %}
             <p class="small light-font">
-              {{ desc | strip_html | truncate: site.quick_view_length, '...' }}
+              {{ desc | strip_html | '...' }}
             </p>
         </li>
       {% endfor %}
@@ -46,5 +46,4 @@ layout: page
   {% include sidebar-right.html %}
   <div class="clearfix"></div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/atom.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
