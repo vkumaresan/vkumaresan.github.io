@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-
+<div class="sidebar-right sidebar">
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
@@ -10,6 +10,8 @@ layout: page
     {% endfor %}
   </ul>
 {% endfor %}
+</div>
+
 
 {{ content }}
 
