@@ -1,3 +1,6 @@
+---
+tags: [Analysis]
+---
 
 # Nursing Home Analysis: CMS Data
 
