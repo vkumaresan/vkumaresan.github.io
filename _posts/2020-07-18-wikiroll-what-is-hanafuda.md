@@ -8,8 +8,6 @@ tags: [WikiRoll]
 comments: true
 ---
 
-# WikiRoll: What is Hanafuda?
-
 It's been a while since I've blogged, probably because a lot has happened in the world, including a massive pandemic. In my own life, I graduated from my master's program and jumped back into the workforce, 
 
 > # What is continuous integration, and why do I need it?
