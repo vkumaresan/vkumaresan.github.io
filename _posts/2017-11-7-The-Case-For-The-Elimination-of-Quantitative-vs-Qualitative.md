@@ -1,3 +1,6 @@
+---
+tags: [Commentary]
+---
 
 # The Case for the Elimination of ‘Quantitative vs. Qualitative’
 
