@@ -16,7 +16,7 @@ Since ancient times, humans have questioned the nature of our world. Thales of M
 ![Thales of Miletus ([https://www.famousscientists.org/thales/](https://www.famousscientists.org/thales/))](https://cdn-images-1.medium.com/max/2000/1*eMPD8EeplfKc7tVgE66sCg.jpeg)
 {: refdef}
 
-*Thales of Miletus ([https://www.famousscientists.org/thales/](https://www.famousscientists.org/thales/))*
+->*Thales of Miletus ([https://www.famousscientists.org/thales/](https://www.famousscientists.org/thales/))*<-
 
 This study led to an incredible amount of research and findings, most of which built the foundation for modern day medicine, botany, and other scientific disciplines. But these inventions came about because philosophers found that science served as a bridge between them and the public, for their inventions and findings would allow Greece to flourish. Science touched every part of their civilization, from military to transportation, and thus the public knew the importance of the scientific process.
 
