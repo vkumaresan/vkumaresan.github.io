@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The 'Threat' of Science'
+title: "The 'Threat' of Science"
 subtitle: How do/should scientists fit into society?
 tags: [Commentary]
 comments: true
