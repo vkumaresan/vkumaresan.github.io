@@ -244,7 +244,7 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-
+link-tags: true
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
