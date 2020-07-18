@@ -1,10 +1,10 @@
 ---
+layout: post
+title: 'Nursing Home Analysis: CMS Data'
+subtitle: Nurses and external monitoring matter a lot.
 tags: [Analysis]
+comments: true
 ---
-
-# Nursing Home Analysis: CMS Data
-
-
 
 I just finished up my first semester in the Duke MIDS program, and one of my favorite classes was Modeling and Representation of Data. During this class, we learned about modeling techniques, assumptions, and how to interpret the results. We applied these techniques in weekly assignments, but we also worked throughout the semester on a final modeling project of our choice. With my background and interest in healthcare, I decided to focus on nursing homes for my analysis.
 
