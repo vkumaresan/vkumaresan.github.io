@@ -1,3 +1,6 @@
+---
+tags: [Commentary]
+---
 
 # The Rise of ESports Analytics
 
