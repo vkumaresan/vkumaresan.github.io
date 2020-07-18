@@ -2,8 +2,6 @@
 layout: post
 title: 'WikiRoll: What is Hanafuda?'
 subtitle: The start of a new series
-gh-repo: vkumaresan/vkumaresan.github.io
-gh-badge: [star, fork, follow]
 tags: [WikiRoll]
 comments: true
 ---
