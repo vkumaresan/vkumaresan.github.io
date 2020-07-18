@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Master's Year 1 Recap'
+title: 'Masters Year 1 Recap'
 subtitle: A lot done, a lot learned.
 tags: [Data Science]
 comments: true
