@@ -1,3 +1,6 @@
+---
+tags: [Analysis]
+---
 
 # Cambridge Open Data: Parking Tickets
 
