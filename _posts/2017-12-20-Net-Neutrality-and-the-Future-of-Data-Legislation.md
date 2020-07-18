@@ -1,3 +1,6 @@
+---
+tags: [Commentary]
+---
 
 # Net Neutrality and the Future of Data Legislation
 
