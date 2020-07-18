@@ -1,8 +1,10 @@
 ---
+layout: post
+title: 'The Case for the Elimination of ‘Quantitative vs. Qualitative’'
+subtitle: Only the Sith deal in absolutes.
 tags: [Commentary]
+comments: true
 ---
-
-# The Case for the Elimination of ‘Quantitative vs. Qualitative’
 
 There was an article that was recently published by FiveThirtyEight titled ‘The Supreme Court is Allergic to Math’, during which writer Oliver Roeder dives into the aversion that the Supreme Court has to using quantitative methods in their ruling. If you haven’t read this article yet, I would highly recommend reading it (can be found here), and it resonated with me because of my interest in using data science in the policy arena.
 
