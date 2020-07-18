@@ -1,8 +1,10 @@
 ---
+layout: post
+title: 'The Rise of ESports Analytics'
+subtitle: Our kids may be trading out their Curry jersey for Karma one.
 tags: [Commentary]
+comments: true
 ---
-
-# The Rise of ESports Analytics
 
 Video games have increased in popularity and accesibility in recent years, and this has translated to increasing success in the esports industry. Viewership numbers have always been extremely high: over 32M people watched the League of Legends championship this year, almost double the number of people who watched the NBA finals. PC games have been driving the esports industry through games like CounterStrike, League of Legends, and DoTA. The latest example of this is the Overwatch League, a video game league that recently wrapped up its first season.
 
