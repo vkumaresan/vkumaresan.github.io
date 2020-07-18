@@ -1,6 +1,11 @@
 ---
+layout: post
+title: 'Loss Change Allocation: A Microscope into Model Training'
+subtitle: A sneak peek into how your model may be thinking.
 tags: [Data Science]
+comments: true
 ---
+
 
 As I finish up the fall semester, I thought I’d write a post about one of the interesting projects that I worked on in my Medical Machine Learning class. We were tasked with selecting a recent ML paper to replicate/expand upon, and my team decided on the recent paper by Uber Research, [LCA: Loss Change Allocation for Neural Network Training](https://arxiv.org/pdf/1909.01440.pdf). In this paper, the researchers proposed a method for gaining deeper insight into the model training process through the scope of gradient changes, and were able to derive some high-level conclusions from the tasks that they tested. I’ll start off by explaining their methodology, and then go into how we adapted their process for our own tasks.
 
