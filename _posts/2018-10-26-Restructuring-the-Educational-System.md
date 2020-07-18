@@ -1,8 +1,10 @@
 ---
+layout: post
+title: 'Restructuring the Educational System'
+subtitle: Education isn't ancillary, it's necessary.
 tags: [Commentary]
+comments: true
 ---
-
-# Restructuring the Educational System
 
 I recently had the great opportunity to hear a talk from Michael Sorrell, a Duke alum and one of the members of Forbes 50 Greatest Leaders. He spoke about his work turning around Paul Quinn College and the creation of the urban college model, which continues to provide opportunities to black youth in the Dallas area. This got me thinking about the severe lack of innovation in education in the United States, and how we expect decades-old educational structures to provide adequate training for a rapidly evolving world. That will be the topic of this Commentary piece, as we go through the history of education in America and talk about where we should be headed in the future.
 
