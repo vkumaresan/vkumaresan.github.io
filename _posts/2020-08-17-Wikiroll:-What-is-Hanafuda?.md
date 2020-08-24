@@ -12,6 +12,8 @@ I wanted to get an opportunity to write about new topics that weren't related to
 
 Lo and behold, in a sign of the continual onward march of time, when I went to stumbleupon.com I found that it was rebranded to something called Mix.
 
+![Mix](/img/mix.png)*The new StumbleUpon*
+
 <img src=/img/mix.png width="1000" height="500"/>
 
 The Chrome extension is pretty cool, but I realized that there is probably a better way to find fun and random things to write about. Then I remembered the Wikipedia game that we used to play as a kid, where someone would give you a random Wikipedia page and you had to get to another un-related Wikipedia page within 6 clicks. Of course, there's a website for that now too: 6 Degrees of Freedom. Turns out the computers have come for our nonsensical games, too,
