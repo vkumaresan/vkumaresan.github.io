@@ -3,11 +3,11 @@ layout: page
 title: About me
 ---
 
-Data Scientist @ Aetna (a CVS Health company)
+Data Scientist @ Verily (Google Life Sciences)
 
 Entrepreneur-in-Progress
 
-Master in Interdisciplinary Data Science, Duke University
+MIDS (Master in Interdisciplinary Data Science) Graduate, Duke University
 
 Passionate about using data to observe and build products that improve human behavior.
 
