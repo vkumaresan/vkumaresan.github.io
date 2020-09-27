@@ -5,6 +5,10 @@ subtitle: The start of a new series.
 tags: [Wikiroll]
 comments: true
 ---
+<p align="center">
+  <img width="460" height="300" src="hhttps://lh3.googleusercontent.com/proxy/HN11RvqRM6xtitLRZOL85QumJ1joYG2c_bzJxaKrsOtjS7aykrhDvsB6ptvFMUzzNOuKZ7xtQBmSMBZCqhX5fhYcnm7bY-igG-iiqDwQ9kqQBUN6D6qZHIU">
+</p>
+
 
 So it's been a while since I've written a post, but a lot has also happened in the world in the meantime: namely, a global pandemic. In other news, I graduated from my master's program and am back in the healthcare tech industry, so that's fun!
 
@@ -18,9 +22,24 @@ The Chrome extension is pretty cool, but I realized that there is probably a bet
 
 ![Six Degrees of Wikipedia](/img/six_degrees.png)*https://www.sixdegreesofwikipedia.com/*
 
-(I told you it was inevitable that there would be data science somewhere.) But I thought that this would be a great way to write about new topics that were outside of my usual area of expertise and understanding, so I started this series: WikiRoll! This post will be the first post in the series, so I'll start on a topic that I wanted to learn more about: Hanafuda, the Japanese card game. But from here, I'll pick a link/topic on the Hanafuda page and use that page as the topic for my next post in the series! This is just an experiment, so let me know if you have additional ideas/thoughts! Now, the reason you're here...
+(I told you it was inevitable that there would be data science somewhere.) But I thought that this would be a great way to write about new topics that were outside of my usual area of expertise and understanding, so I started this series: WikiRoll! As this is the first post in the series, I'll start on a topic that I wanted to learn more about: Hanafuda, the Japanese card game. But from here, I'll pick a link/topic on the Hanafuda page and use that page as the topic for my next post in the series, and so on and so forth! This is just an experiment, so let me know if you have additional ideas/thoughts! Now, the reason you're here...
 
 > # What is Hanafuda?
+The literal translation of Hanafuda is "flower cards"<sup>1</sup>, and can refer either to the set of playing cards themselves or the games that are usually played with them. The cards have a bold and unique design, which is what really stood out to me; I actually first saw them when I was watching the anime show Demon Slayer: Kimetsu no Yaiba. The main character has these card-shaped earrings, and the villain refers to them as looking like hanafuda cards, which is what led me to explore them further! 
+
+![Demon Slayer; Kimetsu no Yaiba](https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/0/08/Manga_Slide.png/revision/latest/scale-to-width-down/670?cb=20200515050427)
+
+*Demon Slayer: Kimetsu no Yaiba*
+
+The game developed in Japan after the Portuguese took Western cards there in the 17th century<sup>2</sup>. Over time, it actually grew to become a banned gambling game several times, but eventually become tolerated by the Japanese government. Fun fact: Nintendo, the massive video-game company we all know and love, was actually founded by Fusajiro Yamauchi with the purpose of producing and selling handcrafed hanafuda! Obviously, Nintendo is much more focused on the likes of Zelda and Mario, but they still produce hanafuda cards, including some 
+
+
+
+
+
+
+<sup>1</sup> https://www.pagat.com/class/flower.html
+<sup>2</sup> https://www.britannica.com/topic/hanafuda
 
 [POST IN PROGRESS]
 
