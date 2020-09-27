@@ -35,13 +35,43 @@ The literal translation of Hanafuda is "flower cards"<sup>1</sup>, and can refer
 
 <p align="center">
   <img src="https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/0/08/Manga_Slide.png/revision/latest/scale-to-width-down/670?cb=20200515050427">
-  <i>Demon Slayer: Kimetsu no Yaiba</i>
+</p>
+<p align="center">
+<i>Demon Slayer: Kimetsu no Yaiba</i>
+</p>
+
+The game developed in Japan after the Portuguese took Western cards there in the 17th century<sup>2</sup>. Over time, it actually grew to become a banned gambling game several times, but eventually become tolerated by the Japanese government. Fun fact: Nintendo, the massive video-game company we all know and love, was actually founded by Fusajiro Yamauchi with the purpose of producing and selling handcrafed hanafuda! Obviously, Nintendo is much more focused on the likes of Zelda and Mario now, but they still produce hanafuda cards, including some cool Mario-themed sets.
+
+<p align="center">
+  <img src="https://vignette.wikia.nocookie.net/nintendo/images/d/d2/MarioHanafuda.jpg/revision/latest?cb=20080822165402&path-prefix=en">
+</p>
+<p align="center">
+<i>Mario Themed Hanafuda</i>
+</p>
+
+> # How do you play?
+There's a variety of games that you can play with hanafuda cards, the most popular of which is Koi-Koi. For the sake of simplicity, I'll focus on that variation for this post, but I encourage you to learn more about the other game types too!
+
+A hanafuda deck consists of 12 suits with four cards each, with each suit representing a different month in the year and its corresponding flower or plant. The picture at the top of this blog post shows all 48 cards, going from January on the left vertical to December on the right vertical. 
+
+The number of cards in your hand and in the "field" differ depending upon how many players you have, but let's assume a three player game for now, so we will each have 7 cards in our hand and there will be 6 cards in the field. Each player's turn has the same procedure:
+
+  - See if a card from your hand matches with a card in the field (matching = in the same suit)
+  - If there's a match, you place your card on the matching field card, bring both to your side. If there's not a match, you have to discard one card from your hand to the field
+  - Draw a card from the deck; if this card matches anything in the field, repeat the same procedure and bring both to your side. If not, you have to discard that card to the field.
+  - Play goes to the next player to your right
+  
+The objective of the game is to create matching sets of cards. This is where the complexity comes in; there are a ton of matching sets with varying point values, which can be confusing! The graphic below does a good job of summarizing some of them.
+
+<p align="center">
+  <img src="https://cf.geekdo-images.com/camo/2b20cfe30987b202f5fcb937f04fbb8a3bbb3703/687474703a2f2f6d6f6f6e72616262697468616e61667564612e776565626c792e636f6d2f75706c6f6164732f382f332f362f352f38333635343239362f66696e616c73636f72655f322e6a70673f363039">
+</p>
+<p align="center">
+<i>Scoring in Koi-Koi</i>
 </p>
 
 
-               
 
-The game developed in Japan after the Portuguese took Western cards there in the 17th century<sup>2</sup>. Over time, it actually grew to become a banned gambling game several times, but eventually become tolerated by the Japanese government. Fun fact: Nintendo, the massive video-game company we all know and love, was actually founded by Fusajiro Yamauchi with the purpose of producing and selling handcrafed hanafuda! Obviously, Nintendo is much more focused on the likes of Zelda and Mario, but they still produce hanafuda cards, including some 
 
 
 
