@@ -6,7 +6,7 @@ tags: [Wikiroll]
 comments: true
 ---
 <p align="center">
-  <img width="460" height="300" src="hhttps://lh3.googleusercontent.com/proxy/HN11RvqRM6xtitLRZOL85QumJ1joYG2c_bzJxaKrsOtjS7aykrhDvsB6ptvFMUzzNOuKZ7xtQBmSMBZCqhX5fhYcnm7bY-igG-iiqDwQ9kqQBUN6D6qZHIU">
+  <img width="460" height="300" src="http://www.unmissablejapan.com/etcetera/images/hanafuda-cards.jpg">
 </p>
 
 
