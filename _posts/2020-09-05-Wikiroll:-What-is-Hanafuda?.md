@@ -31,6 +31,7 @@ The Chrome extension is pretty cool, but I realized that there is probably a bet
 (I told you it was inevitable that there would be data science somewhere.) But I thought that this would be a great way to write about new topics that were outside of my usual area of expertise and understanding, so I started this series: WikiRoll! As this is the first post in the series, I'll start on a topic that I wanted to learn more about: Hanafuda, the Japanese card game. But from here, I'll pick a link/topic on the Hanafuda page and use that page as the topic for my next post in the series, and so on and so forth! This is just an experiment, so let me know if you have additional ideas/thoughts! Now, the reason you're here...
 
 > # What is Hanafuda?
+
 The literal translation of Hanafuda is "flower cards"<sup>1</sup>, and can refer either to the set of playing cards themselves or the games that are usually played with them. The cards have a bold and unique design, which is what really stood out to me; I actually first saw them when I was watching the anime show Demon Slayer: Kimetsu no Yaiba. The main character has these card-shaped earrings, and the villain refers to them as looking like hanafuda cards, which is what led me to explore them further! 
 
 <p align="center">
@@ -50,6 +51,7 @@ The game developed in Japan after the Portuguese took Western cards there in the
 </p>
 
 > # How do you play?
+
 There's a variety of games that you can play with hanafuda cards, the most popular of which is Koi-Koi. For the sake of simplicity, I'll focus on that variation for this post, but I encourage you to learn more about the other game types too!
 
 A hanafuda deck consists of 12 suits with four cards each, with each suit representing a different month in the year and its corresponding flower or plant. The picture at the top of this blog post shows all 48 cards, going from January on the left vertical to December on the right vertical. 
