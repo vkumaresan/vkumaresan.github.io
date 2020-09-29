@@ -63,7 +63,7 @@ The number of cards in your hand and in the "field" differ depending upon how ma
   - Draw a card from the deck; if this card matches anything in the field, repeat the same procedure and bring both to your side. If not, you have to discard that card to the field.
   - Play goes to the next player to your right
   
-The objective of the game is to create matching sets of cards. This is where the complexity comes in; there are a ton of matching sets with varying point values, which can be confusing! The graphic below does a good job of summarizing some of them.
+The objective of the game is to create matching sets of cards. This is where the complexity comes in; there are a ton of matching sets with varying point values, which can be really confusing! The graphic below does a good job of summarizing some of them.
 
 <p align="center">
   <img src="https://cf.geekdo-images.com/camo/2b20cfe30987b202f5fcb937f04fbb8a3bbb3703/687474703a2f2f6d6f6f6e72616262697468616e61667564612e776565626c792e636f6d2f75706c6f6164732f382f332f362f352f38333635343239362f66696e616c73636f72655f322e6a70673f363039">
@@ -72,19 +72,33 @@ The objective of the game is to create matching sets of cards. This is where the
 <i>Scoring in Koi-Koi</i>
 </p>
 
+So once a player gets one of these sets, they can immediately end the round and get the amount of points that the set is worth. But here's the twist for this game variant: the player could also opt to yell out 'Koi-Koi!', which is the proverbial double or nothing (kinda). The game will continue and allow the player to score a second set, but if another player is able to form a set, then they can earn DOUBLE the normal points for that set! The winner then becomes the dealer and play continues, traditionally for twelve rounds, and the person with the most points at the end of it all is the winner. 
 
+All around, this sounds like a super fun game, so if you're like me and wanted to get started with playing, here are some recommendations!
 
+**Digital**: There are a ton of video game options for Hanafuda, some even released by Nintendo itself. They are typically in world board game packs, like Clubhouse Games: 51 Classics. The Game Grumps did a pretty funny video of them playing through it.
 
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NLRb_7oHv60
+" target="_blank"><img src="http://img.youtube.com/vi/NLRb_7oHv60/0.jpg" 
+alt="Game Grumps - Hanafuda" width="550" height="300" border="10" /></a>
+</p>
 
+**Physical**: Of course, a lot of the allure from Hanafuda lies in the beautifully designed cards. Writing this post made me want to go ahead and pick up a pack, so I encourage you to do the same! The [Nintendo website](https://www.nintendo.co.uk/Official-UK-Store/Everything-Else/Hanafuda-and-Playing-Card-sets-1795238.html) offers a great set of options, including some of the Nintendo video-game sets that I had mentioned earlier in the post. I want to go with a cheap traditional option from Nintendo, so I ordered the top find on Amazon.
 
+<p align="center">
+  <img src="/img/hanafuda_amazon.png">
+  <i>Link:https://www.amazon.com/Nintendo-Japanese-Playing-Hanafuda-Miyako/dp/B001FLYYIM/ref=pd_bxgy_2/138-2832722-0423358?_encoding=UTF8&pd_rd_i=B001FLYYIM&pd_rd_r=1dd46cdb-8438-40f4-8de6-5ff61ed44927&pd_rd_w=H0nKl&pd_rd_wg=vyXxl&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=P5KD1CSWGA51WZ6P2NFY&psc=1&refRID=P5KD1CSWGA51WZ6P2NFY/</i>
+</p>
 
+So that's that! If you made it this far, thanks so much for reading and I hope that you learned something! Even better, pick up a hanafuda deck yourself and play with some friends. I had a blast learning about this game and can't wait to find out what I'll be writing about next. Stay tuned to find out! 
+
+Until then, stay safe and be well. 
 
 
 <sup>1</sup> https://www.pagat.com/class/flower.html
 
 <sup>2</sup> https://www.britannica.com/topic/hanafuda
-
-[POST IN PROGRESS]
 
 
 
