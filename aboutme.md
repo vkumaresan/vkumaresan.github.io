@@ -2,9 +2,9 @@
 layout: page
 title: About me
 ---
-
-![kid](img/IMG_20171123_112518-01.jpeg)
-
+<p align="center">
+<img src="https://github.com/vkumaresan/vkumaresan.github.io/blob/master/img/IMG_20171123_112518-01.jpeg" width="400" height="500">
+  </p>
 
 ![FAUJ](img/42003678734_452aac18a2_o_copy3.png)
 
