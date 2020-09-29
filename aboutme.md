@@ -4,9 +4,12 @@ title: About me
 ---
 
 <p align="center">
-  <img width="400" height="400" src="img/IMG_-p4tz8r-01.jpeg">
+  <img width="400" height="500" src="img/IMG_20171123_112518-01.jpeg">
 </p>
 
+<p align="center">
+  <img src="img/42003678734_452aac18a2_o_copy3.png">
+</p>
 
 Data Scientist @ Verily (Google Life Sciences)
 
