@@ -3,18 +3,11 @@ layout: page
 title: About me
 ---
 
-<p align="center">
-  <img width="400" height="500" src="img/IMG_20171123_112518-01.jpeg">
-</p>
-
 ![kid](img/IMG_20171123_112518-01.jpeg)
 
 
 ![FAUJ](img/42003678734_452aac18a2_o_copy3.png)
 
-<p align="center">
-  <img src="img/42003678734_452aac18a2_o_copy3.png">
-</p>
 
 Data Scientist @ Verily (Google Life Sciences)
 
