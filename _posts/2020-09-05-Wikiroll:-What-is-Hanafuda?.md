@@ -84,11 +84,10 @@ All around, this sounds like a super fun game, so if you're like me and wanted t
 alt="Game Grumps - Hanafuda" width="550" height="300" border="10" /></a>
 </p>
 
-**Physical**: Of course, a lot of the allure from Hanafuda lies in the beautifully designed cards. Writing this post made me want to go ahead and pick up a pack, so I encourage you to do the same! The [Nintendo website](https://www.nintendo.co.uk/Official-UK-Store/Everything-Else/Hanafuda-and-Playing-Card-sets-1795238.html) offers a great set of options, including some of the Nintendo video-game sets that I had mentioned earlier in the post. I want to go with a cheap traditional option from Nintendo, so I ordered the top find on Amazon.
+**Physical**: Of course, a lot of the allure from Hanafuda lies in the beautifully designed cards. Writing this post made me want to go ahead and pick up a pack, so I encourage you to do the same! The [Nintendo website](https://www.nintendo.co.uk/Official-UK-Store/Everything-Else/Hanafuda-and-Playing-Card-sets-1795238.html) offers a great set of options, including some of the Nintendo video-game sets that I had mentioned earlier in the post. I want to go with a cheap traditional option from Nintendo, so I ordered the top find on [Amazon](https://www.amazon.com/Nintendo-Japanese-Playing-Hanafuda-Miyako/dp/B001FLYYIM/ref=pd_bxgy_2/138-2832722-0423358?_encoding=UTF8&pd_rd_i=B001FLYYIM&pd_rd_r=1dd46cdb-8438-40f4-8de6-5ff61ed44927&pd_rd_w=H0nKl&pd_rd_wg=vyXxl&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=P5KD1CSWGA51WZ6P2NFY&psc=1&refRID=P5KD1CSWGA51WZ6P2NFY/).
 
 <p align="center">
   <img src="/img/hanafuda_amazon.png">
-  <i>Link:https://www.amazon.com/Nintendo-Japanese-Playing-Hanafuda-Miyako/dp/B001FLYYIM/ref=pd_bxgy_2/138-2832722-0423358?_encoding=UTF8&pd_rd_i=B001FLYYIM&pd_rd_r=1dd46cdb-8438-40f4-8de6-5ff61ed44927&pd_rd_w=H0nKl&pd_rd_wg=vyXxl&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=P5KD1CSWGA51WZ6P2NFY&psc=1&refRID=P5KD1CSWGA51WZ6P2NFY/</i>
 </p>
 
 So that's that! If you made it this far, thanks so much for reading and I hope that you learned something! Even better, pick up a hanafuda deck yourself and play with some friends. I had a blast learning about this game and can't wait to find out what I'll be writing about next. Stay tuned to find out! 
