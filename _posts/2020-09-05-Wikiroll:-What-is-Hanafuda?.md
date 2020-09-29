@@ -95,10 +95,6 @@ So that's that! If you made it this far, thanks so much for reading and I hope t
 Until then, stay safe and be well. 
 
 
-<sup>1</sup> https://www.pagat.com/class/flower.html
+<sup>1</sup> (https://www.pagat.com/class/flower.html)
 
-<sup>2</sup> https://www.britannica.com/topic/hanafuda
-
-
-
-
+<sup>2</sup> (https://www.britannica.com/topic/hanafuda)
