@@ -3,6 +3,11 @@ layout: page
 title: About me
 ---
 
+<p align="center">
+  <img width="400" height="400" src="img/IMG_-p4tz8r-01.jpeg">
+</p>
+
+
 Data Scientist @ Verily (Google Life Sciences)
 
 Entrepreneur-in-Progress
