@@ -18,14 +18,21 @@ I decided to look at weather data collected on Durham in the past 11 years. The 
 
 These are the available columns in the dataset:
 
-**Station ID: Station Identification Code (17 characters)
-** **Name: Name of station. Usually city/airport name (max 50 characters)
-** **Latitude: Decimated degrees w/northern > 0, southern < 0** **Longitude: Decimated degrees w/western > 0, eastern < 0
-** **Elevation: Elevation about mean sea level, tenths of meters
-** **Date: YYYYMMDD
-** **Precipitation: Precipitation in inches to hundredths degree
-** **Min Temp: Minimum temperature for day, Fahrenheit to tenths degree
-** **Max Temp: Maximum temperature for day, Fahrenheit to tenths degree** [Documentation available here.](https://www1.ncdc.noaa.gov/pub/data/cdo/documentation/GHCND_documentation.pdf)
+**Station ID**: Station Identification Code (17 characters)
+
+**Name**: Name of station. Usually city/airport name (max 50 characters)
+
+**Latitude**: Decimated degrees w/northern > 0, southern < 0** **Longitude: Decimated degrees w/western > 0, eastern < 0
+
+**Elevation**: Elevation about mean sea level, tenths of meters
+
+**Date**: YYYYMMDD
+
+**Precipitation**: Precipitation in inches to hundredths degree
+
+**Min Temp**: Minimum temperature for day, Fahrenheit to tenths degree
+
+**Max Temp**: Maximum temperature for day, Fahrenheit to tenths degree** [Documentation available here.](https://www1.ncdc.noaa.gov/pub/data/cdo/documentation/GHCND_documentation.pdf)
 
 We can start with some simple exploration of the data using Seaborn for visualization. Let’s start by plotting the minimum temperature distribution for our time period.
 
