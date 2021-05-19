@@ -10,7 +10,7 @@ title: About me
 
 Data Scientist @ Verily (Google Life Sciences)
 
-Entrepreneur-in-Progress @ [V2 Labs](https://v2-labs.webflow.io/)
+Entrepreneur-in-Progress @ [V<sup>2</sup> Labs](https://v2-labs.webflow.io/)
 
 MIDS (Master in Interdisciplinary Data Science) Graduate, Duke University
 
