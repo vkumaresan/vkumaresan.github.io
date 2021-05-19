@@ -18,8 +18,6 @@ Passionate about using data to observe and build products that improve human beh
 
 Avid basketball fan, hip-hop aficionado, and enthusiast of all things food-related.
 
-Blog posts are also hosted on my Medium page, [Data in All Things](https://medium.com/data-in-all-things)
-
 All opinions are my own.
 
 ## Contact
