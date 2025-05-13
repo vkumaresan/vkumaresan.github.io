@@ -8,11 +8,9 @@ title: About me
 ![FAUJ](img/42003678734_452aac18a2_o_copy3.png)
 
 
-Data Scientist @ Verily (Google Life Sciences)
+AI Lead at Sonar Mental Health
 
-Entrepreneur-in-Progress @ [V<sup>2</sup> Labs](https://v2-labs.webflow.io/)
-
-MIDS (Master in Interdisciplinary Data Science) Graduate, Duke University
+Research @ [V<sup>2</sup> Labs](https://v2-labs.webflow.io/)
 
 Passionate about using data to observe and build products that improve human behavior.
 
